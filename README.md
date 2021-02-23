@@ -3,7 +3,7 @@
 ## 👨‍💻 Languages and Tools:
 
 <a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-  src="javascript-48px.png" />
+  src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/javascript-48px.png" />
 </a>            
 <a href="#"><img alt="HTML5" title="HTML5" height="28px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -19,7 +19,10 @@
 </a>
 
 <a href="#"><img alt="GitHub" title="GitHub" height="28px"
-  src="https://i.imgur.com/DZgetVv.png" />
+  src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/github-48px.png" />
+</a>
+<a href="#"><img alt="Git" title="Git" height="28px"
+  src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/git-48px.png" />
 </a>
 <a href="#"><img alt="Terminal" title="Terminal" height="28px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
