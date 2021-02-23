@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Stefano Branz and I'm a front-end developer!
 
 ## 👨‍💻 Languages and Tools:
 
