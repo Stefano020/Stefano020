@@ -76,6 +76,6 @@ Besides that I'm a passionate for travel, sports and cooking for my friends.
 </p>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Stefano020&count_private=true&show_icons=true&theme=graywhite"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefano020&theme=graywhite&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stefano020&count_private=true&show_icons=true&theme=graywhite" width="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefano020&theme=graywhite&layout=compact" width="200"/>
 </div>
 
