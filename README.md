@@ -7,7 +7,9 @@
 <a href="https://github.com/Stefano020"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/github-64px.png" height="26px"></a>
 <a href="https://www.linkedin.com/in/stefano-branz/"><img alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/linkedin-64px.png" height="24px"></a>
 </div>
-
+<a href="stefano.branz@gmail.com"><img alt="stefano.branz@gmail.com" title="stefano.branz@gmail.com" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/gmail-64px.png" height="24px"></a>
+</div>
+<br>
 <p align="center">
 I'm a future fullstack web developer passionate by the world's future tecnologies. I always get myself thinking about what it will bring to us.
 I believe that tecnology is here to help us and make our lifes better, and because of that I decided to became a developer.
