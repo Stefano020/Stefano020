@@ -19,7 +19,7 @@ Besides that I'm a passionate for travel, sports and cooking for my friends.
 
 <h2 align="center">👨‍💻 Languages and Tools: </h2>
 
-<p align="center"> Basics:
+<p align="center">
 <a href="#"><img alt="HTML5" title="HTML5" height="48px"
   src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/html5-64px.png" />
 </a>
@@ -31,7 +31,7 @@ Besides that I'm a passionate for travel, sports and cooking for my friends.
 </a>
 </p>
 
-<p align="center"> Front-end:
+<p align="center">
 <a href="#"><img alt="React" title="React" height="48px"
   src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/react-64px.png" />
 </a>
@@ -49,7 +49,7 @@ Besides that I'm a passionate for travel, sports and cooking for my friends.
 </a>
 </p>
 
-<p align="center"> Back-end: 
+<p align="center">
 <a href="#"><img alt="MySQL" title="MySQL" height="48px"
   src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/MySQL-64px.png" />
 </a> 
@@ -61,7 +61,7 @@ Besides that I'm a passionate for travel, sports and cooking for my friends.
 </a>
 </p>
 
-<p align="center"> Tools:
+<p align="center">
 <a href="#"><img alt="Git" title="Git" height="48px"
   src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Icons/git-48px.png" />
 </a>
