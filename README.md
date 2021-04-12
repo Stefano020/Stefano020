@@ -3,7 +3,7 @@
 
 <p align="right" style="font-size:15px; text-decoration:underline;">Feel free to contact me:</p>
 <div align="right">
-<a href="https://www.instagram.com/stefano.branz/"><img alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/instagram-64px.png" height="24px"></a>
+
 <a href="https://github.com/Stefano020"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/github-64px.png" height="26px"></a>
 <a href="https://www.linkedin.com/in/stefano-branz/"><img alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/linkedin-64px.png" height="24px"></a>
 <a href="#"><img alt="stefano.branz@gmail.com" title="stefano.branz@gmail.com" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/gmail-64px.png" height="24px"></a>
