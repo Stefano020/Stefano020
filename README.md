@@ -1,24 +1,24 @@
 <h1 align="center"> <b>Hi there, I'm Stefano Branz.</b> </h1>
 
-<p align="center" style="font-size:18px">
-  Here you can see some of my projects done during the <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe School</a> course: </br>
-  <a style="font-size:25px; "href="https://github.com/Stefano020/Trybe-School">Trybe Projects</a>
-</p>
+<h4 align="center" style="font-size:18px">
+  Here you can see some of my projects done during the <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe School</a> course: 
+</h4>
+  <h2 align="center"><a href="https://github.com/Stefano020/Trybe-School">Trybe Projects</a></h2>
 
-</br>
-<p align="right" style="font-size:15px; text-decoration:underline;">Feel free to contact me:</p>
+
+<h5 align="right" style="text-decoration:underline;">Feel free to contact me:</h5>
+
 <div align="right">
-
 <a href="https://www.linkedin.com/in/stefano-branz/"><img alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/linkedin-64px.png" height="24px"></a>
 <a href="#"><img alt="stefano.branz@gmail.com" title="stefano.branz@gmail.com" src="https://raw.githubusercontent.com/Stefano020/Stefano020/main/Social_Medias/gmail-64px.png" height="24px"></a>
-
 </div>
+
 <br>
-<p align="center">
+<h4 align="center">
 I'm a future full stack web developer passionate by the world's tecnologies. I always get myself thinking about what it will bring to us.
 I believe that tecnology is here to help us and make our lifes better, and because of that I decided to became a developer.
 Besides that I'm a passionate for travel, sports and cooking for my friends.
-</p>
+</h4>
 
 <br>
 
