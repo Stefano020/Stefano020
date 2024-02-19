@@ -15,9 +15,24 @@
 
 <br>
 <h4 align="center">
-I'm a future full stack web developer passionate by the world's tecnologies. I always get myself thinking about what it will bring to us.
-I believe that tecnology is here to help us and make our lifes better, and because of that I decided to became a developer.
-Besides that I'm a passionate for travel, sports and cooking for my friends.
+With a solid foundation in web development and a passion for creating clean and efficient code, I always seek to utilize my skills and experience to advance team objectives.
+
+Over the course of three years, I have accumulated practical experience in software engineering, actively participating in the development of more than 15 projects. These experiences have helped me enhance my hard and soft skills, actively collaborating with design and business teams to ensure responsive designs and a high-quality user experience.
+
+I'm passionate about acquiring knowledge and learning new things. Currently, I'm delving deeper into mobile development, especially iOS using Swift.
+
+Throughout my journey, I have used a variety of tools, including:
+
+Languages: Swift | TypeScript | JavaScript | Java
+Frameworks and Libraries: UIKit | SwiftUI | React.js | Node.js | Redux | React Hooks | Vue.js | Spring Boot
+Web Technologies: HTML5 | CSS3 | GraphQL
+Database Management: MySQL | MongoDB
+E-commerce Platforms: VTEX
+Version Control: Git
+
+I enjoy embracing new challenges and employing my skills to achieve impactful results. Connecting with other professionals, sharing insights, and exploring innovative opportunities in the ever-evolving technology landscape.
+
+Feel free to get in touch if you'd like to connect, collaborate, or engage in discussions about cutting-edge developments in the technology sphere.
 </h4>
 
 <br>
